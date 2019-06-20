@@ -1,0 +1,11 @@
+/Users/Tabish/Desktop/gtcbc/C# Projects/NOWaccountTest/NOWaccountTest/obj/Debug/netcoreapp2.1/NOWaccountTest.csprojAssemblyReference.cache
+/Users/Tabish/Desktop/gtcbc/C# Projects/NOWaccountTest/NOWaccountTest/obj/Debug/netcoreapp2.1/NOWaccountTest.csproj.CoreCompileInputs.cache
+/Users/Tabish/Desktop/gtcbc/C# Projects/NOWaccountTest/NOWaccountTest/obj/Debug/netcoreapp2.1/NOWaccountTest.AssemblyInfoInputs.cache
+/Users/Tabish/Desktop/gtcbc/C# Projects/NOWaccountTest/NOWaccountTest/obj/Debug/netcoreapp2.1/NOWaccountTest.AssemblyInfo.cs
+/Users/Tabish/Desktop/gtcbc/C# Projects/NOWaccountTest/NOWaccountTest/bin/Debug/netcoreapp2.1/NOWaccountTest.deps.json
+/Users/Tabish/Desktop/gtcbc/C# Projects/NOWaccountTest/NOWaccountTest/bin/Debug/netcoreapp2.1/NOWaccountTest.runtimeconfig.json
+/Users/Tabish/Desktop/gtcbc/C# Projects/NOWaccountTest/NOWaccountTest/bin/Debug/netcoreapp2.1/NOWaccountTest.runtimeconfig.dev.json
+/Users/Tabish/Desktop/gtcbc/C# Projects/NOWaccountTest/NOWaccountTest/bin/Debug/netcoreapp2.1/NOWaccountTest.dll
+/Users/Tabish/Desktop/gtcbc/C# Projects/NOWaccountTest/NOWaccountTest/bin/Debug/netcoreapp2.1/NOWaccountTest.pdb
+/Users/Tabish/Desktop/gtcbc/C# Projects/NOWaccountTest/NOWaccountTest/obj/Debug/netcoreapp2.1/NOWaccountTest.dll
+/Users/Tabish/Desktop/gtcbc/C# Projects/NOWaccountTest/NOWaccountTest/obj/Debug/netcoreapp2.1/NOWaccountTest.pdb

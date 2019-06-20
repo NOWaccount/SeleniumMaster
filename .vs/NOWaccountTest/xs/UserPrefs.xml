@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{88E052F8-F11C-4F90-8FF3-445878EA43C3}|Default">
+  <MonoDevelop.Ide.ItemProperties.NOWaccountTest PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="NOWaccountTest/Login.cs">
+    <Files>
+      <File FileName="NOWaccountTest/Login.cs" Line="77" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="NOWaccountTest" expanded="True">
+            <Node name="NOWaccountTest" expanded="True">
+              <Node name="Login.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
